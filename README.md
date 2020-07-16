@@ -1,2 +1,2 @@
-# GTKing-Prime
+# GTKing-Prueba
 Build base de GTKing
