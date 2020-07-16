@@ -14,7 +14,7 @@
        </extension>
 </addon>
 
-<addon id="resource.gtking" name="[COLOR dodgerblue]GTKing[/COLOR] [COLOR green]WIZARD[/COLOR]" version="4.1" provider-name="Manu, Josa, DavidZgZ y Sugea">
+<addon id="resource.gtking" name="[COLOR dodgerblue]GTKing[/COLOR] [COLOR green]WIZARD[/COLOR]" version="4.1.1" provider-name="Manu, Josa, DavidZgZ y Sugea">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
