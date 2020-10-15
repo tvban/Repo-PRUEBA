@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.program.gtking" name="GTKING [COLOR dodgerblue]WIZARD[/COLOR]" version="2.2.5" provider-name="Josa, Manu, Davidzgz, Sugea">
+<addon id="plugin.program.gtking" name="GTKING [COLOR dodgerblue]WIZARD[/COLOR]" version="2.2.6" provider-name="Josa, Manu, Davidzgz, Sugea">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
@@ -10,19 +10,13 @@
   <extension point="xbmc.addon.metadata">
     <summary lang="en">GTKing [COLOR dodgerblue]WIZARD[/COLOR]</summary>
     <description lang="en">Build GTKing Prime para Kodi 18
-Telegram: [COLOR lime]t.me/beelinkking[/COLOR]</description>
+- Testers: [COLOR gold]Mapache, Tete6776, Vicente, zalcos[/COLOR]
+
+- Telegram: [COLOR lime]t.me/beelinkking[/COLOR]</description>
 <news>- Build [COLOR dodgerblue]GTKing[/COLOR] [COLOR lime]Prime[/COLOR]
-- Mejoras en buffer. 
-- Mejoras de aspectos. 
-- Nueva distribución de atajos a secciones.
-- Añadido addon MediaExplorer para visionado de contenido.
-- Incluido Forzar Cierre en menú de apagado.
-- Eliminado addon Limpia tu Kodi, para optimizar los buscadores.
-- Cambio del atajo Supercine.
-- Nuevos iconos en Menu de Ajustes.
-- Añadido nuevo Wallpaper en sección addons
- 21/9/2020
- - Correción de textos
+Instalador actualizado a la versión 2.2.6
+- Cambios de textos al instalar la Build
+15/10/2020
  </news>
     <platform>all</platform>
   </extension>
