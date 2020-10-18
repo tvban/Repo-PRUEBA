@@ -1,11 +1,9 @@
-v2.2.3 30/07/20)
-- Editado
-v2.2.2 (25/07/20)
+v4.0 25/07/20
 Nueva reforma de la Build
 -Nuevos atajos.
 -Builds y Parches por color
 
-v2.2.1 (15/07/20)
+v3.0 (15/07/20)
 Nueva actualización
 - Eliminado addon limpia tu kodi para optimizar los buscadores.
 - Atajo a la sección Supercine modificado.
@@ -23,6 +21,6 @@ Nueva Build GTKing Prime
 - Mejoras externas.
 - Mejoras internas.
 
-v2.0.0 (27/05/2020)
+v2.0.0 (27/05/2024)
 Version inicial
 
